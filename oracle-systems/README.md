@@ -1,3 +1,4 @@
-iching
-runes
-tarot
+- iching
+- runes
+- ogham
+- tarot
