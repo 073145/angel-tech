@@ -1,0 +1,3 @@
+iching
+runes
+tarot
